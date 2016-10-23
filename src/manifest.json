@@ -1,0 +1,13 @@
+{
+  "name": "Chrome Imagoid",
+  "description": "Add a context menu for viewing subreddit images using imagoid",
+  "version": "1.0.0",
+  "permissions": ["contextMenus"],
+  "icons": {
+	  "16": "icon.png"
+  },
+  "background": {
+    "scripts": ["main.js"]
+  },
+  "manifest_version": 2
+}

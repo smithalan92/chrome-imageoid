@@ -1,0 +1,31 @@
+{
+  "name": "Chrome-Imageoid-Extension",
+  "version": "1.0.0",
+  "description": "Add a context menu to chrome for viewing subreddits on imageoid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smithalan92/chrome-imageoid.git"
+  },
+  "keywords": [
+    "reddit",
+    "imageoid",
+    "images",
+    "chrome",
+    "extension"
+  ],
+  "author": "Alan Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smithalan92/chrome-imageoid/issues"
+  },
+  "homepage": "https://github.com/smithalan92/chrome-imageoid",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.2",
+    "coffee-script": "^1.11.1"
+  }
+}
