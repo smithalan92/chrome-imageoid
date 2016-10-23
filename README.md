@@ -13,7 +13,7 @@ You can install it in 2 ways. Either use the prepacked chrome extension, or buil
 
 #### Using the prepackaged chrome extension.
 
-Download the .crx file [here](extension/chrome-imagoid.crx). In chrome, open up [chrome://extensions](chrome://extensions) and drag the crx file you downloaded onto the extensions page.
+Download the .crx file [here](extension/chrome-imageoid.crx). In chrome, open up [chrome://extensions](chrome://extensions) and drag the crx file you downloaded onto the extensions page.
 
 
 #### Building the extension yourself.
