@@ -21,7 +21,7 @@ OnClick = (info) ->
   subreddit = info.linkUrl.split("/")[4]
   # Open imagoid in a new tab
   chrome.tabs.create
-    url: "http://imagoid.com/r/#{subreddit}"
+    url: "http://www.imagoid.com/r/#{subreddit}"
 
 # Create the context menu
 chrome.contextMenus.create
